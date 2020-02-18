@@ -55,3 +55,7 @@ $ yarn install
 # Run the app
 $ yarn start
 ```
+
+## :memo: License
+
+This project is under the MIT license. See the [LICENSE](https://github.com/matheuskuster/gostack-rocketshoes-react/blob/master/LICENSE) for more information.
