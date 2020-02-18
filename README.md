@@ -17,12 +17,6 @@
 
 ![App Screenshot](./.github/app_screenshot.png)
 
-<p align="center">
-  <a href="">
-    <img alt="Demo on Netlify" src="https://res.cloudinary.com/lukemorales/image/upload/v1563043495/readme_logos/demo_on_netlify_bbuvjz.png">
-  </a>
-</p>
-
 ## :rocket: Technologies
 
 This project was developed at the [RocketSeat GoStack Bootcamp](https://rocketseat.com.br/bootcamp) with the following technologies:
