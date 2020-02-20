@@ -1,5 +1,5 @@
 <h1 align="center">
-    <img alt="GoStack" src="./.github/github_logo.png" width="200px" />
+    <img alt="GoStack" src="./.github/github_logo.png" width="400"  />
     <br />
     RocketShoes React
 </h1>
@@ -16,6 +16,14 @@
 </p>
 
 ![App Screenshot](./.github/app_screenshot.png)
+
+</p>
+
+  <p align="center">
+  <a href="https://mk-rocketshoes.netlify.com/" target="_blank">
+    <img alt="Demo on Netlify" src="./.github/netlify.png">
+  </a>
+</p>
 
 ## :rocket: Technologies
 
